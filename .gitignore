@@ -23,3 +23,8 @@ generated_voice/
 *.log
 _old_tests/
 _archive/
+
+# Allow portfolio demos
+!demo/
+!demo/*.mp4
+!demo/*.gif
