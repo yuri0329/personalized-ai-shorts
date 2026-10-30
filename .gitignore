@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# AI models and third-party source
+MeloTTS/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Generated audio/video
+generated_voice/
+*.wav
+*.mp3
+*.mp4
+
+# Secrets and temporary files
+.env
+.env.*
+*.log
+_old_tests/
+_archive/
