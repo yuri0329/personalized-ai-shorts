@@ -20,6 +20,9 @@ bash setup_and_run.sh
 
 영상 속 기존 자막과 대응하는 대사를 스크립트의 `SEGMENTS`에서 수정할 수 있습니다. 음색은 `VOICE`의 `pitch`와 `speed`를 수정하세요. 최초 실행 시 MeloTTS 모델을 다운로드하며, 인터넷이 필요합니다. 음성은 기본 KR 화자 하나를 신호 처리로 변조하므로 완전히 다른 두 성우가 아닙니다. 24초 고정 구간에 긴 대사가 들어가면 속도가 빨라질 수 있습니다.
 
+## YouTube 링크
+https://youtube.com/shorts/fnZh7C9Cs44
+
 ## 라이선스 / 확인
 - MyShell MeloTTS 코드: MIT. https://github.com/myshell-ai/MeloTTS
 - MyShell MeloTTS-Korean 체크포인트: MIT. https://huggingface.co/myshell-ai/MeloTTS-Korean
